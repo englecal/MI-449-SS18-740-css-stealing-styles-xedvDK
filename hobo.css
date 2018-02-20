@@ -30,35 +30,35 @@
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
-.H {
+.green {
   font-size: 140px;
 }
 
-.O {
+.blue {
   font-size: 140px;
 }
 
-.B {
+.yellow {
   font-size: 140px;
 }
 
-.second-O {
+.purple {
   font-size: 140px;
 }
 
-.H:hover {
+.green:hover {
   color: #98c379;
 }
 
-.O:hover {
+.blue:hover {
   color: #56b6c2;
 }
 
-.B:hover {
+.yellow:hover {
   color: #c6ad00;
 }
 
-.second-O:hover {
+.purple:hover {
   color: #b400b9;
 }
 
@@ -72,6 +72,9 @@
   box-shadow: none;
   vertical-align: bottom;
   width: 100%;
+  font-family: Merriweather, serif;
+  font-weight: 300;
+  font-size: 16px;
 }
 
 .search:focus {
